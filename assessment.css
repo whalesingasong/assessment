@@ -1,0 +1,34 @@
+body {
+background-color:lightblue ;
+  color: #555399;
+text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: "arial unicode ms";
+}
+h1{
+  color: #ffffff;
+}
+
+input{
+  height: 25px;
+  width: 139px;
+  margin-right: 4.5px;
+  margin-left: 1px;
+}
+
+h3{
+  color:greenyellow;
+}
+
+p{
+color:#ffffff;
+}
+
+button{
+padding:6px 3px;
+background-color: lightcoral;
+border-style: none;
+color: #f5f5ff;
+font-family: "arial unicode ms";
+}
